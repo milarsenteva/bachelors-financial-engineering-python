@@ -6,10 +6,10 @@ A collection of four individual computational finance studies exploring derivati
 
 | Notebook | Topics |
 | --- | --- |
-| [01 · Forwards, Futures & No-Arbitrage Valuation](notebooks/01_forwards_and_futures.ipynb) | Replicating portfolios, foreign-exchange forwards, mark-to-market valuation, futures pricing, and arbitrage strategies. |
-| [02 · Option Arbitrage & Binomial Trees](notebooks/02_options_and_binomial_trees.ipynb) | Option-price bounds, convexity, put–call parity, binomial valuation, hedging, and American exercise. |
-| [03 · Volatility, Hedging & Structured Products](notebooks/03_volatility_and_hedging.ipynb) | Historical and implied volatility, FX option valuation, delta hedging, structured payoff replication, and barrier options. |
-| [04 · Monte Carlo Pricing & Interest Rate Swaps](notebooks/04_monte_carlo_and_swaps.ipynb) | Simulation of vanilla and barrier options, antithetic variates, comparison with analytical prices, swap valuation, and Itô’s lemma. |
+| [01 · Forwards, Futures & No-Arbitrage Valuation](01_forwards_and_futures.ipynb) | Replicating portfolios, foreign-exchange forwards, mark-to-market valuation, futures pricing, and arbitrage strategies. |
+| [02 · Option Arbitrage & Binomial Trees](02_options_and_binomial_trees.ipynb) | Option-price bounds, convexity, put–call parity, binomial valuation, hedging, and American exercise. |
+| [03 · Volatility, Hedging & Structured Products](03_volatility_and_hedging.ipynb) | Historical and implied volatility, FX option valuation, delta hedging, structured payoff replication, and barrier options. |
+| [04 · Monte Carlo Pricing & Interest Rate Swaps](04_monte_carlo_and_swaps.ipynb) | Simulation of vanilla and barrier options, antithetic variates, comparison with analytical prices, swap valuation, and Ito’s lemma. |
 
 ## Methods and concepts
 
